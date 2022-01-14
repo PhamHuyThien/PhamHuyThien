@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PhamHuyThien
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java and ReactJS
+- 🌱 I’m currently learning Java and JS
 - 📫 [Contact Me](https://fb.com/thiendz.systemerror)
